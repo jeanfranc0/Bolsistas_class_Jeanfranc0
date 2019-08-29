@@ -1,5 +1,5 @@
 # Bolsistas_class_Jeanfranco
-Gente, só precisan pegar os arquivos tsv e .ipynb no google colab e pronto!
+Gente, só precisan pegar os arquivos .ipynb no google colab e pronto!
 # Interesting Reads:
 * [Transformers from scratch](http://peterbloem.nl/blog/transformers?fbclid=IwAR2uQldWOByDAEa-EifEX0aVjFJXMfmnXhM0Ry6UaDIGP6jSdEw59Ro8UUM)
 * [Neural networks: training with backpropagation](https://www.jeremyjordan.me/neural-networks-training/?fbclid=IwAR0qKepf7-sog4noZCJBVGf8xvX_sWo6Blq1o1uRk5C_xHF_zJiCRzKSz3c)
