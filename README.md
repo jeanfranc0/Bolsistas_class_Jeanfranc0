@@ -7,6 +7,7 @@ Gente, só precisan pegar os arquivos .ipynb no google colab e pronto!
 * [Mathematics for Machine Learning](https://mml-book.github.io/?fbclid=IwAR0LwYLBqJk7h-pkln9moc2ATnIK3M4A5MBJFfZVXJnbOd6G1tAdSN9bAX8)
 # Interesting codes:
 * [Pytorch -  Dive Into Deep Learning book](https://github.com/dsgiitr/d2l-pytorch?fbclid=IwAR1gcdAuhvcj7EvqaSBfP3nLEljvJLO_10pioz5hzP2kolNF7_ROwtaYtgU)
+* [Deep Learning course: lecture slides and lab notebooks](https://m2dsupsdlclass.github.io/lectures-labs/?fbclid=IwAR3GEIn-u3iWKjH5A4BL1-B9JJinXHEWgv4WWh_21X9LjfrWyS9Ehib4i-s)
 # First assignment
 We use pre-trained BERT model to classify sentences. This model is relevant because we can use a new, more representative embedding. Specific, the input embeddings are the sum of the token embeddings, the segmentation embeddings and the position embeddings.
 ![Recursive outpainting](img/embedding_bert.png)
